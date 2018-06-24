@@ -9,10 +9,6 @@ import com.infosys.androidbarchartassignment.retrofit.data.Graph;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 
-/**
- * Created by sandy on 6/22/2018.
- */
-
 public class BarChartView extends View {
 
     public static boolean BAR = true;
