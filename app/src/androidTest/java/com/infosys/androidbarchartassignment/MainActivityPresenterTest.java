@@ -59,7 +59,7 @@ public class MainActivityPresenterTest extends AbstractTest {
     }
 
     @Test
-    public void testFetchCountry() {
+    public void testFetchGraph() {
 
         // attach view to presenter
         objGraphPresenter.attach(barChartView);
